@@ -1,0 +1,2 @@
+Bot_Token="7861655553:AAH0lSneG0n9S1VR4Zpz4fQuqqrtRVpoLlk"
+Admin_Id=5514106574
