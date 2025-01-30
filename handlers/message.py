@@ -3,8 +3,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 from utils import anime,manga
-from keyboards.inline import search_kb,random_kb
-
+from keyboards.inline import search_kb,random_kb,category_kb
+from utils import referral
 class Main_menu(StatesGroup):
     waiting_for_anime_name = State()
 
@@ -16,7 +16,7 @@ async def main_menu(message: Message,state: FSMContext):
         await state.set_state(Main_menu.waiting_for_anime_name)
 
     elif message.text == "Kategoriyalar 📚":
-        await message.answer("Quyidagi kategoriyalarni tanlashingiz mumkin 👇")
+        await message.answer("Quyidagi kategoriyalarni tanlashingiz mumkin 👇",reply_markup=category_kb())
 
     elif message.text == "Tasodifiy 🎲":
         await message.answer("Tasodifiy anime kerakmi yoki manga 🎲",reply_markup=random_kb())
@@ -25,7 +25,8 @@ async def main_menu(message: Message,state: FSMContext):
 async def search_anime(message: Message,state: FSMContext):
     name = message.text
     anime_list = anime.searching_anime(name)
-    if not anime_list:
+    manga_list = manga.searching_manga(name)
+    if not anime_list and not manga_list:
         await message.answer("Bunday nomli anime yoki manga topilmadi :(")
     else:
         await message.answer("Quyidagi anime va mangalar topildi :) 👇",reply_markup=search_kb(name))
@@ -171,22 +172,18 @@ async def delete_manga_series_msg(message: Message,state: FSMContext):
 
 
 async def add_category_msg(message: Message,state: FSMContext):
-    print("ish")
     msg_list = message.text.split(",")
     c,id = msg_list.pop(0).split("_")
     id = int(id)
     msg=""
-    print("ish1")
     for i in msg_list:
         msg+=i+","
-    print("ish2")
     if c == "anime":
-        print(1)
         anime.add_category(id,msg)
         await message.answer(f"Anime: {anime.get_anime_name(id)[0]}\nKategoriya: {msg}")
         state.clear()
     elif c == "manga":
-        print(2)
+        print("manga")
         manga.add_category(id,msg)
         await message.answer(f"Manga: {manga.get_manga_name(id)[0]}\nKategoriya: {msg}")
         state.clear()
@@ -195,20 +192,37 @@ async def rem_category_msg(message: Message,state: FSMContext):
     c,id = message.text.split("_")
     id = int(id)
     if c == "anime":
-        print(11)
         anime.rem_category(id)
         await message.answer(f"Anime: {anime.get_anime_name(id)[0]}\nKategoriya bo'shatildi")
         state.clear()
     elif c == "manga":
-        print(22)
         manga.rem_category(id)
         await message.answer(f"Manga: {manga.get_manga_name(id)[0]}\nKategoriya bo'shatildi")
         state.clear()
 
+async def add_other_name_msg(message: Message,state: FSMContext):
+    msg = message.text
+    id,name = msg.split("_")
+    data = await state.get_data()
+    if data["data_key"] == "admin_btn_o1":
+        anime.add_anime_other_name(id=id,name=name)
+    elif data["data_key"] == "admin_btn_o2":
+        manga.add_manga_other_name(id=id,name=name)
+    await message.answer(f"Qo'shimcha nomlar qo'shildi: {name}")
+    await state.clear()
 
-
-
-
+async def send_msg_to_all(message: Message, state: FSMContext):
+    all_user = referral.get_all_users()
+    active = 0
+    inactive = 0
+    for i in all_user:
+        try:
+            await message.copy_to(chat_id=int(i[1]))
+            active+=1
+        except Exception as e:
+            inactive+=1
+    await message.answer(f"Xabar barchaga yuborildi.\nAktivlar: {active}\nInaktivlar: {inactive}")
+        
 
 
 

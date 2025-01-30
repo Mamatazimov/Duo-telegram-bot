@@ -71,7 +71,7 @@ def searching_manga(name):
     cursor = conn.cursor()
     name = name.lower()
     name = f"%{name}%"
-    cursor.execute("SELECT * FROM manga_table WHERE name LIKE ?",(name,))
+    cursor.execute("SELECT * FROM manga_table WHERE name LIKE ? OR other_name LIKE ?",(name,name))
     manga_names = cursor.fetchall()
     conn.close()
     return manga_names
@@ -118,7 +118,32 @@ def rem_category(manga_id):
     conn.commit()
     conn.close()
 
+def add_manga_other_name(id,name):
+    conn = sqlite3.connect("basa.db")
+    cursor = conn.cursor()
+    cursor.execute("UPDATE manga_table SET other_name = ? WHERE id = ?",(name,id))
+    conn.commit()
+    conn.close()
 
+
+
+
+def get_all_category():
+    conn = sqlite3.connect("basa.db")
+    cursor = conn.cursor()
+    cursor.execute("SELECT id,category FROM manga_table")
+    anime_names = list(cursor.fetchall())
+    conn.close()
+    return anime_names
+
+def manga_category_search(category_list):
+    all_category = get_all_category()
+    result = []
+    for i in all_category:
+        for data in category_list:
+            if data in i[1]:
+                result.append(i[0])
+    return result
 
 
 

@@ -24,7 +24,8 @@ def init_db():
         CREATE TABLE IF NOT EXISTS animes_table(
                     id INTEGER PRIMARY KEY,
                     name TEXT,
-                    category TEXT
+                    category TEXT,
+                    other_name TEXT
                     )
         """)
     cursor.execute("""
@@ -39,7 +40,8 @@ def init_db():
         CREATE TABLE IF NOT EXISTS manga_table(
                     id INTEGER PRIMARY KEY,
                     name TEXT,
-                    category TEXT
+                    category TEXT,
+                    other_name TEXT
                     )
         """)
 

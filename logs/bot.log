@@ -1,39 +1,19 @@
-2025-01-26 23:08:48,679 - root - INFO - Bot ishga tushdi
-2025-01-26 23:08:48,681 - aiogram.dispatcher - INFO - Start polling
-2025-01-26 23:08:49,165 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:08:49,931 - root - INFO - Bot ishga tushdi
-2025-01-26 23:08:51,064 - aiogram.event - INFO - Update id=260027116 is handled. Duration 1719 ms by bot id=7861655553
-2025-01-26 23:08:57,668 - aiogram.event - INFO - Update id=260027117 is handled. Duration 280 ms by bot id=7861655553
-2025-01-26 23:09:00,068 - aiogram.event - INFO - Update id=260027118 is handled. Duration 297 ms by bot id=7861655553
-2025-01-26 23:09:02,477 - aiogram.event - INFO - Update id=260027119 is handled. Duration 218 ms by bot id=7861655553
-2025-01-26 23:09:05,351 - aiogram.event - INFO - Update id=260027120 is handled. Duration 187 ms by bot id=7861655553
-2025-01-26 23:09:08,821 - aiogram.event - INFO - Update id=260027121 is not handled. Duration 0 ms by bot id=7861655553
-2025-01-26 23:10:10,640 - aiogram.event - INFO - Update id=260027122 is handled. Duration 718 ms by bot id=7861655553
-2025-01-26 23:11:37,642 - aiogram.event - INFO - Update id=260027123 is handled. Duration 2937 ms by bot id=7861655553
-2025-01-26 23:12:38,852 - root - INFO - Bot ishga tushdi
-2025-01-26 23:12:38,854 - aiogram.dispatcher - INFO - Start polling
-2025-01-26 23:12:39,403 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:12:40,421 - aiogram.event - INFO - Update id=260027124 is handled. Duration 781 ms by bot id=7861655553
-2025-01-26 23:12:44,353 - aiogram.event - INFO - Update id=260027125 is handled. Duration 187 ms by bot id=7861655553
-2025-01-26 23:12:48,561 - aiogram.event - INFO - Update id=260027126 is handled. Duration 234 ms by bot id=7861655553
-2025-01-26 23:12:50,763 - aiogram.event - INFO - Update id=260027127 is handled. Duration 265 ms by bot id=7861655553
-2025-01-26 23:13:09,875 - aiogram.event - INFO - Update id=260027128 is not handled. Duration 0 ms by bot id=7861655553
-2025-01-26 23:14:17,082 - aiogram.dispatcher - INFO - Polling stopped
-2025-01-26 23:14:17,333 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:14:25,650 - root - INFO - Bot ishga tushdi
-2025-01-26 23:14:25,653 - aiogram.dispatcher - INFO - Start polling
-2025-01-26 23:14:26,837 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:14:27,881 - aiogram.event - INFO - Update id=260027129 is handled. Duration 641 ms by bot id=7861655553
-2025-01-26 23:14:30,093 - aiogram.event - INFO - Update id=260027130 is not handled. Duration 0 ms by bot id=7861655553
-2025-01-26 23:15:24,128 - aiogram.dispatcher - INFO - Polling stopped
-2025-01-26 23:15:24,380 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:15:32,568 - root - INFO - Bot ishga tushdi
-2025-01-26 23:15:32,569 - aiogram.dispatcher - INFO - Start polling
-2025-01-26 23:15:33,140 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:15:33,953 - aiogram.event - INFO - Update id=260027131 is handled. Duration 577 ms by bot id=7861655553
-2025-01-26 23:15:35,765 - aiogram.event - INFO - Update id=260027132 is not handled. Duration 15 ms by bot id=7861655553
-2025-01-26 23:15:35,765 - aiogram.event - ERROR - Cause exception while process update id=260027132 by bot id=7861655553
-ProgrammingError: Error binding parameter 1: type 'list' is not supported
+2025-01-28 18:00:32,594 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:00:32,846 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:00:40,933 - root - INFO - Bot ishga tushdi
+2025-01-28 18:00:40,934 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:00:41,561 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:00:48,374 - aiogram.event - INFO - Update id=260027457 is handled. Duration 625 ms by bot id=7861655553
+2025-01-28 18:01:06,505 - aiogram.event - INFO - Update id=260027458 is handled. Duration 719 ms by bot id=7861655553
+2025-01-28 18:03:27,170 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:03:27,421 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:03:35,919 - root - INFO - Bot ishga tushdi
+2025-01-28 18:03:35,920 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:03:36,546 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:03:39,595 - aiogram.event - INFO - Update id=260027459 is handled. Duration 734 ms by bot id=7861655553
+2025-01-28 18:03:41,879 - aiogram.event - INFO - Update id=260027460 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-28 18:03:41,880 - aiogram.event - ERROR - Cause exception while process update id=260027460 by bot id=7861655553
+TypeError: FSMContext.get_data() takes 1 positional argument but 2 were given
 Traceback (most recent call last):
   File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
     response = await self.feed_update(bot, update, **kwargs)
@@ -74,24 +54,19 @@ Traceback (most recent call last):
   File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
     return await wrapped()
            ^^^^^^^^^^^^^^^
-  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\message.py", line 185, in add_category_msg
-    anime.add_category(id,msg_list)
-  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\utils\anime.py", line 105, in add_category
-    cursor.execute("UPDATE animes_table SET category = ? WHERE id = ?",(category,anime_id))
-sqlite3.ProgrammingError: Error binding parameter 1: type 'list' is not supported
-2025-01-26 23:16:54,377 - aiogram.dispatcher - INFO - Polling stopped
-2025-01-26 23:16:54,629 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:17:06,369 - root - INFO - Bot ishga tushdi
-2025-01-26 23:17:06,371 - aiogram.dispatcher - INFO - Start polling
-2025-01-26 23:17:06,974 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:17:07,693 - aiogram.event - INFO - Update id=260027133 is handled. Duration 532 ms by bot id=7861655553
-2025-01-26 23:17:10,417 - aiogram.event - INFO - Update id=260027134 is handled. Duration 265 ms by bot id=7861655553
-2025-01-26 23:17:42,155 - aiogram.event - INFO - Update id=260027135 is handled. Duration 625 ms by bot id=7861655553
-2025-01-26 23:18:31,566 - aiogram.event - INFO - Update id=260027136 is handled. Duration 515 ms by bot id=7861655553
-2025-01-26 23:18:53,568 - aiogram.event - INFO - Update id=260027137 is handled. Duration 594 ms by bot id=7861655553
-2025-01-26 23:19:01,467 - aiogram.event - INFO - Update id=260027138 is not handled. Duration 15 ms by bot id=7861655553
-2025-01-26 23:19:01,467 - aiogram.event - ERROR - Cause exception while process update id=260027138 by bot id=7861655553
-ValueError: not enough values to unpack (expected 2, got 1)
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\message.py", line 204, in add_other_name_msg
+    data = state.get_data("data_key")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: FSMContext.get_data() takes 1 positional argument but 2 were given
+2025-01-28 18:04:31,107 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:04:31,358 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:04:38,396 - root - INFO - Bot ishga tushdi
+2025-01-28 18:04:38,398 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:04:39,560 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:04:41,475 - aiogram.event - INFO - Update id=260027461 is handled. Duration 1406 ms by bot id=7861655553
+2025-01-28 18:04:42,648 - aiogram.event - INFO - Update id=260027462 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-28 18:04:42,648 - aiogram.event - ERROR - Cause exception while process update id=260027462 by bot id=7861655553
+TypeError: FSMContext.get_data() takes 1 positional argument but 2 were given
 Traceback (most recent call last):
   File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
     response = await self.feed_update(bot, update, **kwargs)
@@ -132,14 +107,876 @@ Traceback (most recent call last):
   File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
     return await wrapped()
            ^^^^^^^^^^^^^^^
-  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\message.py", line 195, in rem_category_msg
-    c,id = message.text.split(",")
-    ^^^^
-ValueError: not enough values to unpack (expected 2, got 1)
-2025-01-26 23:20:14,477 - aiogram.dispatcher - INFO - Polling stopped
-2025-01-26 23:20:14,729 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:20:25,320 - root - INFO - Bot ishga tushdi
-2025-01-26 23:20:25,322 - aiogram.dispatcher - INFO - Start polling
-2025-01-26 23:20:26,057 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
-2025-01-26 23:20:26,807 - aiogram.event - INFO - Update id=260027139 is handled. Duration 563 ms by bot id=7861655553
-2025-01-26 23:20:30,981 - aiogram.event - INFO - Update id=260027140 is handled. Duration 218 ms by bot id=7861655553
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\message.py", line 205, in add_other_name_msg
+    data = state.get_data("data_key")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: FSMContext.get_data() takes 1 positional argument but 2 were given
+2025-01-28 18:05:12,923 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:05:13,174 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:05:20,991 - root - INFO - Bot ishga tushdi
+2025-01-28 18:05:20,993 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:05:21,553 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:05:22,484 - aiogram.event - INFO - Update id=260027463 is handled. Duration 719 ms by bot id=7861655553
+2025-01-28 18:05:23,578 - aiogram.event - INFO - Update id=260027464 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-28 18:05:23,578 - aiogram.event - ERROR - Cause exception while process update id=260027464 by bot id=7861655553
+TypeError: FSMContext.get_data() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\message.py", line 205, in add_other_name_msg
+    data = await state.get_data("data_key")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: FSMContext.get_data() takes 1 positional argument but 2 were given
+2025-01-28 18:08:48,287 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:08:48,539 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:08:56,425 - root - INFO - Bot ishga tushdi
+2025-01-28 18:08:56,426 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:08:57,821 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:08:59,191 - aiogram.event - INFO - Update id=260027465 is handled. Duration 718 ms by bot id=7861655553
+2025-01-28 18:09:01,022 - aiogram.event - INFO - Update id=260027466 is handled. Duration 187 ms by bot id=7861655553
+2025-01-28 18:09:02,984 - aiogram.event - INFO - Update id=260027467 is handled. Duration 188 ms by bot id=7861655553
+2025-01-28 18:10:27,542 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:10:27,793 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:12:58,222 - root - INFO - Bot ishga tushdi
+2025-01-28 18:12:58,223 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:12:59,161 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:13:00,165 - aiogram.event - INFO - Update id=260027468 is handled. Duration 670 ms by bot id=7861655553
+2025-01-28 18:13:02,163 - aiogram.event - INFO - Update id=260027469 is handled. Duration 390 ms by bot id=7861655553
+2025-01-28 18:13:28,696 - aiogram.event - INFO - Update id=260027470 is handled. Duration 593 ms by bot id=7861655553
+2025-01-28 18:13:44,640 - aiogram.event - INFO - Update id=260027471 is handled. Duration 734 ms by bot id=7861655553
+2025-01-28 18:14:01,258 - aiogram.event - INFO - Update id=260027472 is handled. Duration 530 ms by bot id=7861655553
+2025-01-28 18:14:03,923 - aiogram.event - INFO - Update id=260027473 is handled. Duration 297 ms by bot id=7861655553
+2025-01-28 18:14:15,746 - aiogram.event - INFO - Update id=260027474 is handled. Duration 219 ms by bot id=7861655553
+2025-01-28 18:14:19,479 - aiogram.event - INFO - Update id=260027475 is handled. Duration 281 ms by bot id=7861655553
+2025-01-28 18:14:33,238 - aiogram.event - INFO - Update id=260027476 is handled. Duration 204 ms by bot id=7861655553
+2025-01-28 18:14:42,307 - aiogram.event - INFO - Update id=260027477 is handled. Duration 202 ms by bot id=7861655553
+2025-01-28 18:14:53,709 - aiogram.event - INFO - Update id=260027478 is handled. Duration 280 ms by bot id=7861655553
+2025-01-28 18:15:09,807 - aiogram.event - INFO - Update id=260027479 is handled. Duration 875 ms by bot id=7861655553
+2025-01-28 18:15:17,831 - aiogram.event - INFO - Update id=260027480 is handled. Duration 202 ms by bot id=7861655553
+2025-01-28 18:15:19,405 - aiogram.event - INFO - Update id=260027481 is handled. Duration 265 ms by bot id=7861655553
+2025-01-28 18:16:11,238 - aiogram.event - INFO - Update id=260027482 is handled. Duration 1000 ms by bot id=7861655553
+2025-01-28 18:18:03,479 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:18:03,729 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:18:12,765 - root - INFO - Bot ishga tushdi
+2025-01-28 18:18:12,766 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:18:13,656 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:18:14,373 - aiogram.event - INFO - Update id=260027483 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-28 18:18:20,167 - aiogram.event - INFO - Update id=260027484 is handled. Duration 640 ms by bot id=7861655553
+2025-01-28 18:18:26,253 - aiogram.event - INFO - Update id=260027485 is handled. Duration 280 ms by bot id=7861655553
+2025-01-28 18:18:31,522 - aiogram.event - INFO - Update id=260027486 is handled. Duration 187 ms by bot id=7861655553
+2025-01-28 18:18:34,179 - aiogram.event - INFO - Update id=260027487 is handled. Duration 281 ms by bot id=7861655553
+2025-01-28 18:19:25,767 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:19:26,018 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:19:33,649 - root - INFO - Bot ishga tushdi
+2025-01-28 18:19:33,650 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:19:34,216 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:19:37,665 - root - INFO - Bot ishga tushdi
+2025-01-28 18:19:38,157 - aiogram.event - INFO - Update id=260027488 is handled. Duration 780 ms by bot id=7861655553
+2025-01-28 18:19:41,977 - aiogram.event - INFO - Update id=260027489 is handled. Duration 859 ms by bot id=7861655553
+2025-01-28 18:19:43,458 - aiogram.event - INFO - Update id=260027490 is handled. Duration 592 ms by bot id=7861655553
+2025-01-28 18:19:49,080 - aiogram.event - INFO - Update id=260027491 is handled. Duration 265 ms by bot id=7861655553
+2025-01-28 18:19:52,205 - aiogram.event - INFO - Update id=260027492 is handled. Duration 265 ms by bot id=7861655553
+2025-01-28 18:19:56,969 - aiogram.event - INFO - Update id=260027493 is handled. Duration 265 ms by bot id=7861655553
+2025-01-28 18:22:10,589 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:22:10,840 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:22:49,312 - root - INFO - Bot ishga tushdi
+2025-01-28 18:22:49,314 - aiogram.dispatcher - INFO - Start polling
+2025-01-28 18:22:49,868 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-28 18:22:51,135 - root - INFO - Bot ishga tushdi
+2025-01-28 18:22:51,663 - aiogram.event - INFO - Update id=260027494 is handled. Duration 827 ms by bot id=7861655553
+2025-01-28 18:22:54,788 - aiogram.event - INFO - Update id=260027495 is handled. Duration 342 ms by bot id=7861655553
+2025-01-28 18:22:57,516 - aiogram.event - INFO - Update id=260027496 is handled. Duration 250 ms by bot id=7861655553
+2025-01-28 18:23:02,656 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-28 18:23:02,907 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:26:45,850 - root - INFO - Bot ishga tushdi
+2025-01-29 15:26:45,855 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 15:26:48,416 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:26:50,729 - root - INFO - Bot ishga tushdi
+2025-01-29 15:26:50,752 - aiogram.event - INFO - Update id=260027498 is handled. Duration 1875 ms by bot id=7861655553
+2025-01-29 15:26:51,351 - aiogram.event - INFO - Update id=260027499 is handled. Duration 1171 ms by bot id=7861655553
+2025-01-29 15:26:55,857 - aiogram.event - INFO - Update id=260027500 is handled. Duration 250 ms by bot id=7861655553
+2025-01-29 15:27:01,262 - aiogram.event - INFO - Update id=260027501 is handled. Duration 312 ms by bot id=7861655553
+2025-01-29 15:27:04,963 - aiogram.event - INFO - Update id=260027502 is handled. Duration 765 ms by bot id=7861655553
+2025-01-29 15:27:09,864 - aiogram.event - INFO - Update id=260027503 is handled. Duration 1295 ms by bot id=7861655553
+2025-01-29 15:27:46,617 - aiogram.event - INFO - Update id=260027504 is handled. Duration 936 ms by bot id=7861655553
+2025-01-29 15:27:58,476 - aiogram.event - INFO - Update id=260027505 is handled. Duration 202 ms by bot id=7861655553
+2025-01-29 15:28:02,268 - aiogram.event - INFO - Update id=260027506 is handled. Duration 250 ms by bot id=7861655553
+2025-01-29 15:28:06,811 - aiogram.event - INFO - Update id=260027507 is handled. Duration 234 ms by bot id=7861655553
+2025-01-29 15:29:12,010 - aiogram.event - INFO - Update id=260027508 is handled. Duration 547 ms by bot id=7861655553
+2025-01-29 15:29:30,771 - aiogram.event - INFO - Update id=260027509 is handled. Duration 672 ms by bot id=7861655553
+2025-01-29 15:29:36,062 - aiogram.event - INFO - Update id=260027510 is handled. Duration 282 ms by bot id=7861655553
+2025-01-29 15:29:38,532 - aiogram.event - INFO - Update id=260027511 is not handled. Duration 15 ms by bot id=7861655553
+2025-01-29 15:51:19,758 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 15:51:20,011 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:51:28,405 - root - INFO - Bot ishga tushdi
+2025-01-29 15:51:28,406 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 15:51:29,078 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:51:32,356 - aiogram.event - INFO - Update id=260027512 is handled. Duration 702 ms by bot id=7861655553
+2025-01-29 15:51:33,663 - aiogram.event - INFO - Update id=260027513 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-29 15:53:21,969 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 15:53:22,219 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:53:43,245 - root - INFO - Bot ishga tushdi
+2025-01-29 15:53:43,247 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 15:53:43,775 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:53:44,978 - aiogram.event - INFO - Update id=260027514 is handled. Duration 515 ms by bot id=7861655553
+2025-01-29 15:53:47,535 - aiogram.event - INFO - Update id=260027515 is handled. Duration 358 ms by bot id=7861655553
+2025-01-29 15:54:00,031 - root - INFO - Bot ishga tushdi
+2025-01-29 15:54:00,782 - aiogram.event - INFO - Update id=260027516 is handled. Duration 1202 ms by bot id=7861655553
+2025-01-29 15:54:03,384 - aiogram.event - INFO - Update id=260027517 is handled. Duration 577 ms by bot id=7861655553
+2025-01-29 15:54:12,828 - aiogram.event - INFO - Update id=260027518 is handled. Duration 780 ms by bot id=7861655553
+2025-01-29 15:54:14,848 - aiogram.event - INFO - Update id=260027519 is handled. Duration 405 ms by bot id=7861655553
+2025-01-29 15:54:17,069 - aiogram.event - INFO - Update id=260027520 is handled. Duration 422 ms by bot id=7861655553
+2025-01-29 15:54:23,091 - aiogram.event - INFO - Update id=260027521 is handled. Duration 234 ms by bot id=7861655553
+2025-01-29 15:54:24,937 - aiogram.event - INFO - Update id=260027522 is handled. Duration 454 ms by bot id=7861655553
+2025-01-29 15:54:57,558 - aiogram.event - INFO - Update id=260027523 is handled. Duration 531 ms by bot id=7861655553
+2025-01-29 15:55:00,333 - aiogram.event - INFO - Update id=260027524 is handled. Duration 280 ms by bot id=7861655553
+2025-01-29 15:55:35,576 - aiogram.event - INFO - Update id=260027525 is handled. Duration 547 ms by bot id=7861655553
+2025-01-29 15:55:43,966 - aiogram.event - INFO - Update id=260027526 is handled. Duration 390 ms by bot id=7861655553
+2025-01-29 15:56:33,883 - aiogram.event - INFO - Update id=260027527 is handled. Duration 687 ms by bot id=7861655553
+2025-01-29 15:56:35,732 - aiogram.event - INFO - Update id=260027528 is handled. Duration 405 ms by bot id=7861655553
+2025-01-29 15:59:50,211 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 15:59:50,462 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 15:59:50,545 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001C47F7B79B0>
+2025-01-29 15:59:58,798 - root - INFO - Bot ishga tushdi
+2025-01-29 15:59:58,799 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 15:59:59,619 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:00:18,495 - aiogram.event - INFO - Update id=260027529 is handled. Duration 500 ms by bot id=7861655553
+2025-01-29 16:00:46,215 - aiogram.event - INFO - Update id=260027530 is handled. Duration 577 ms by bot id=7861655553
+2025-01-29 16:01:07,875 - aiogram.event - INFO - Update id=260027531 is handled. Duration 594 ms by bot id=7861655553
+2025-01-29 16:01:16,062 - aiogram.event - INFO - Update id=260027532 is handled. Duration 407 ms by bot id=7861655553
+2025-01-29 16:01:18,015 - aiogram.event - INFO - Update id=260027533 is handled. Duration 218 ms by bot id=7861655553
+2025-01-29 16:01:20,027 - root - INFO - Bot ishga tushdi
+2025-01-29 16:01:20,671 - aiogram.event - INFO - Update id=260027534 is handled. Duration 953 ms by bot id=7861655553
+2025-01-29 16:01:22,024 - aiogram.event - INFO - Update id=260027535 is handled. Duration 375 ms by bot id=7861655553
+2025-01-29 16:01:39,379 - aiogram.event - INFO - Update id=260027536 is handled. Duration 1202 ms by bot id=7861655553
+2025-01-29 16:01:49,457 - aiogram.event - INFO - Update id=260027537 is handled. Duration 547 ms by bot id=7861655553
+2025-01-29 16:01:52,006 - aiogram.event - INFO - Update id=260027538 is handled. Duration 719 ms by bot id=7861655553
+2025-01-29 16:02:56,993 - aiogram.event - INFO - Update id=260027539 is handled. Duration 1077 ms by bot id=7861655553
+2025-01-29 16:05:45,502 - aiogram.event - INFO - Update id=260027540 is handled. Duration 1375 ms by bot id=7861655553
+2025-01-29 16:05:48,568 - aiogram.event - INFO - Update id=260027541 is handled. Duration 1579 ms by bot id=7861655553
+2025-01-29 16:05:50,807 - aiogram.event - INFO - Update id=260027542 is handled. Duration 1281 ms by bot id=7861655553
+2025-01-29 16:07:25,817 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:07:26,070 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:07:26,143 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000024048122690>
+2025-01-29 16:07:33,155 - root - INFO - Bot ishga tushdi
+2025-01-29 16:07:33,156 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:07:33,741 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:07:35,006 - root - INFO - Bot ishga tushdi
+2025-01-29 16:07:35,006 - aiogram.event - INFO - Update id=260027543 is not handled. Duration 297 ms by bot id=7861655553
+2025-01-29 16:07:35,006 - aiogram.event - ERROR - Cause exception while process update id=260027543 by bot id=7861655553
+KeyError: 5514106574
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\callback.py", line 170, in anime_category2
+    data[chat_id]["value"] += f"{category} ,"
+    ~~~~^^^^^^^^^
+KeyError: 5514106574
+2025-01-29 16:07:47,230 - aiogram.event - INFO - Update id=260027544 is handled. Duration 1000 ms by bot id=7861655553
+2025-01-29 16:07:52,788 - aiogram.event - INFO - Update id=260027545 is handled. Duration 1467 ms by bot id=7861655553
+2025-01-29 16:07:54,800 - aiogram.event - INFO - Update id=260027546 is handled. Duration 609 ms by bot id=7861655553
+2025-01-29 16:09:55,780 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:09:56,031 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:09:56,114 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001692F723380>
+2025-01-29 16:10:13,221 - root - INFO - Bot ishga tushdi
+2025-01-29 16:10:13,222 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:10:16,133 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:10:17,601 - aiogram.event - INFO - Update id=260027547 is handled. Duration 984 ms by bot id=7861655553
+2025-01-29 16:10:22,707 - aiogram.event - INFO - Update id=260027548 is handled. Duration 515 ms by bot id=7861655553
+2025-01-29 16:10:25,055 - root - INFO - Bot ishga tushdi
+2025-01-29 16:10:26,383 - aiogram.event - INFO - Update id=260027549 is handled. Duration 1609 ms by bot id=7861655553
+2025-01-29 16:10:29,196 - aiogram.event - INFO - Update id=260027550 is handled. Duration 1234 ms by bot id=7861655553
+2025-01-29 16:10:39,730 - aiogram.event - INFO - Update id=260027551 is handled. Duration 1140 ms by bot id=7861655553
+2025-01-29 16:10:43,073 - aiogram.event - INFO - Update id=260027552 is handled. Duration 750 ms by bot id=7861655553
+2025-01-29 16:10:45,702 - aiogram.event - INFO - Update id=260027553 is handled. Duration 515 ms by bot id=7861655553
+2025-01-29 16:11:59,637 - aiogram.event - INFO - Update id=260027554 is handled. Duration 875 ms by bot id=7861655553
+2025-01-29 16:12:04,483 - aiogram.event - INFO - Update id=260027555 is handled. Duration 2217 ms by bot id=7861655553
+2025-01-29 16:12:07,514 - aiogram.event - INFO - Update id=260027556 is handled. Duration 952 ms by bot id=7861655553
+2025-01-29 16:23:49,846 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:23:50,097 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:23:50,180 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001E418555760>
+2025-01-29 16:24:27,603 - root - INFO - Bot ishga tushdi
+2025-01-29 16:24:27,604 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:24:28,518 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:24:30,552 - aiogram.event - INFO - Update id=260027557 is handled. Duration 500 ms by bot id=7861655553
+2025-01-29 16:24:32,378 - aiogram.event - INFO - Update id=260027558 is handled. Duration 219 ms by bot id=7861655553
+2025-01-29 16:24:34,652 - root - INFO - Bot ishga tushdi
+2025-01-29 16:24:35,338 - aiogram.event - INFO - Update id=260027559 is handled. Duration 984 ms by bot id=7861655553
+2025-01-29 16:24:36,687 - aiogram.event - INFO - Update id=260027560 is handled. Duration 437 ms by bot id=7861655553
+2025-01-29 16:24:59,320 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:24:59,570 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:24:59,658 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001C714665760>
+2025-01-29 16:24:59,659 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001C71469E510>, 775474.25)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001C714639520>
+2025-01-29 16:25:06,292 - root - INFO - Bot ishga tushdi
+2025-01-29 16:25:06,293 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:25:06,783 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:25:07,589 - aiogram.event - INFO - Update id=260027561 is handled. Duration 515 ms by bot id=7861655553
+2025-01-29 16:25:09,902 - root - INFO - Bot ishga tushdi
+2025-01-29 16:25:10,481 - aiogram.event - INFO - Update id=260027562 is handled. Duration 875 ms by bot id=7861655553
+2025-01-29 16:25:12,023 - aiogram.event - INFO - Update id=260027563 is handled. Duration 515 ms by bot id=7861655553
+2025-01-29 16:26:00,706 - aiogram.event - INFO - Update id=260027564 is handled. Duration 780 ms by bot id=7861655553
+2025-01-29 16:26:04,836 - aiogram.event - INFO - Update id=260027565 is handled. Duration 2859 ms by bot id=7861655553
+2025-01-29 16:32:39,234 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:32:39,484 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:32:39,571 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001637DFE5730>
+2025-01-29 16:32:48,006 - root - INFO - Bot ishga tushdi
+2025-01-29 16:32:48,007 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:32:48,542 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:32:54,949 - aiogram.event - INFO - Update id=260027566 is handled. Duration 515 ms by bot id=7861655553
+2025-01-29 16:32:57,679 - aiogram.event - INFO - Update id=260027567 is handled. Duration 250 ms by bot id=7861655553
+2025-01-29 16:32:59,732 - root - INFO - Bot ishga tushdi
+2025-01-29 16:33:00,413 - aiogram.event - INFO - Update id=260027568 is handled. Duration 1000 ms by bot id=7861655553
+2025-01-29 16:33:01,685 - aiogram.event - INFO - Update id=260027569 is handled. Duration 359 ms by bot id=7861655553
+2025-01-29 16:33:44,268 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:33:44,519 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:33:44,599 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000018FF9DD83B0>
+2025-01-29 16:33:52,139 - root - INFO - Bot ishga tushdi
+2025-01-29 16:33:52,140 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:33:52,903 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:33:53,883 - aiogram.event - INFO - Update id=260027570 is handled. Duration 781 ms by bot id=7861655553
+2025-01-29 16:33:55,955 - root - INFO - Bot ishga tushdi
+2025-01-29 16:33:56,553 - aiogram.event - INFO - Update id=260027571 is handled. Duration 891 ms by bot id=7861655553
+2025-01-29 16:33:58,509 - aiogram.event - INFO - Update id=260027572 is handled. Duration 562 ms by bot id=7861655553
+2025-01-29 16:34:24,322 - aiogram.event - INFO - Update id=260027573 is handled. Duration 625 ms by bot id=7861655553
+2025-01-29 16:34:27,140 - aiogram.event - INFO - Update id=260027574 is handled. Duration 672 ms by bot id=7861655553
+2025-01-29 16:34:28,649 - aiogram.event - INFO - Update id=260027575 is handled. Duration 547 ms by bot id=7861655553
+2025-01-29 16:35:34,210 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:35:34,461 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:35:34,542 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000250CB0FAE40>
+2025-01-29 16:35:43,710 - root - INFO - Bot ishga tushdi
+2025-01-29 16:35:43,711 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:35:44,222 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:35:45,338 - aiogram.event - INFO - Update id=260027576 is handled. Duration 530 ms by bot id=7861655553
+2025-01-29 16:35:47,567 - aiogram.event - INFO - Update id=260027577 is handled. Duration 219 ms by bot id=7861655553
+2025-01-29 16:35:49,550 - root - INFO - Bot ishga tushdi
+2025-01-29 16:35:50,363 - aiogram.event - INFO - Update id=260027578 is handled. Duration 1280 ms by bot id=7861655553
+2025-01-29 16:35:52,497 - aiogram.event - INFO - Update id=260027579 is handled. Duration 1155 ms by bot id=7861655553
+2025-01-29 16:35:55,287 - aiogram.event - INFO - Update id=260027580 is handled. Duration 405 ms by bot id=7861655553
+2025-01-29 16:35:57,787 - aiogram.event - INFO - Update id=260027581 is handled. Duration 358 ms by bot id=7861655553
+2025-01-29 16:36:01,390 - aiogram.event - INFO - Update id=260027582 is handled. Duration 2390 ms by bot id=7861655553
+2025-01-29 16:36:14,862 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 16:36:15,114 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:36:15,222 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001B902AAD460>
+2025-01-29 16:36:15,223 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001B902D92570>, 776158.953)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001B902A98200>
+2025-01-29 16:39:03,748 - root - INFO - Bot ishga tushdi
+2025-01-29 16:39:03,749 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 16:39:04,322 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 16:39:05,036 - aiogram.event - INFO - Update id=260027583 is handled. Duration 547 ms by bot id=7861655553
+2025-01-29 16:39:09,917 - aiogram.event - INFO - Update id=260027584 is handled. Duration 250 ms by bot id=7861655553
+2025-01-29 16:39:36,689 - aiogram.event - INFO - Update id=260027585 is not handled. Duration 15 ms by bot id=7861655553
+2025-01-29 19:47:05,911 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-01-29 19:47:05,912 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7861655553)
+2025-01-29 19:47:07,017 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-01-29 19:47:07,017 - aiogram.dispatcher - WARNING - Sleep for 1.087894 seconds and try again... (tryings = 1, bot id = 7861655553)
+2025-01-29 19:47:08,136 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-01-29 19:47:08,137 - aiogram.dispatcher - WARNING - Sleep for 1.552825 seconds and try again... (tryings = 2, bot id = 7861655553)
+2025-01-29 19:47:09,693 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-01-29 19:47:09,693 - aiogram.dispatcher - WARNING - Sleep for 2.028453 seconds and try again... (tryings = 3, bot id = 7861655553)
+2025-01-29 19:47:11,725 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-01-29 19:47:11,725 - aiogram.dispatcher - WARNING - Sleep for 2.714752 seconds and try again... (tryings = 4, bot id = 7861655553)
+2025-01-29 19:47:14,442 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2025-01-29 19:47:14,442 - aiogram.dispatcher - WARNING - Sleep for 3.595900 seconds and try again... (tryings = 5, bot id = 7861655553)
+2025-01-29 19:47:31,608 - aiogram.dispatcher - INFO - Connection established (tryings = 6, bot id = 7861655553)
+2025-01-29 19:59:50,649 - aiogram.event - INFO - Update id=260027586 is handled. Duration 593 ms by bot id=7861655553
+2025-01-29 19:59:57,302 - aiogram.event - INFO - Update id=260027587 is handled. Duration 297 ms by bot id=7861655553
+2025-01-29 20:00:07,766 - aiogram.event - INFO - Update id=260027588 is handled. Duration 250 ms by bot id=7861655553
+2025-01-29 20:00:43,399 - aiogram.event - INFO - Update id=260027589 is handled. Duration 1437 ms by bot id=7861655553
+2025-01-29 20:03:08,200 - aiogram.event - INFO - Update id=260027590 is handled. Duration 765 ms by bot id=7861655553
+2025-01-29 20:03:12,181 - aiogram.event - INFO - Update id=260027591 is handled. Duration 313 ms by bot id=7861655553
+2025-01-29 20:03:16,460 - aiogram.event - INFO - Update id=260027592 is handled. Duration 327 ms by bot id=7861655553
+2025-01-29 20:05:30,509 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:05:30,762 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:33:28,184 - root - INFO - Bot ishga tushdi
+2025-01-29 20:33:28,187 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:33:31,188 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:34:18,527 - aiogram.event - INFO - Update id=260027593 is handled. Duration 952 ms by bot id=7861655553
+2025-01-29 20:34:22,460 - aiogram.event - INFO - Update id=260027594 is handled. Duration 265 ms by bot id=7861655553
+2025-01-29 20:34:54,588 - aiogram.event - INFO - Update id=260027595 is handled. Duration 1484 ms by bot id=7861655553
+2025-01-29 20:35:49,782 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:35:50,033 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:35:59,258 - root - INFO - Bot ishga tushdi
+2025-01-29 20:35:59,259 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:36:00,237 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:36:01,359 - aiogram.event - INFO - Update id=260027596 is handled. Duration 905 ms by bot id=7861655553
+2025-01-29 20:36:23,676 - aiogram.event - INFO - Update id=260027597 is handled. Duration 1953 ms by bot id=7861655553
+2025-01-29 20:38:46,272 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:38:46,523 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:38:55,140 - root - INFO - Bot ishga tushdi
+2025-01-29 20:38:55,141 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:38:57,929 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:39:00,823 - aiogram.event - INFO - Update id=260027598 is handled. Duration 2047 ms by bot id=7861655553
+2025-01-29 20:39:22,497 - root - INFO - Bot ishga tushdi
+2025-01-29 20:39:24,276 - aiogram.event - INFO - Update id=260027599 is handled. Duration 2359 ms by bot id=7861655553
+2025-01-29 20:40:23,567 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:40:23,818 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:40:23,909 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000115C6057D40>
+2025-01-29 20:40:32,624 - root - INFO - Bot ishga tushdi
+2025-01-29 20:40:32,625 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:40:33,223 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:40:36,478 - aiogram.event - INFO - Update id=260027600 is handled. Duration 1077 ms by bot id=7861655553
+2025-01-29 20:41:19,972 - root - INFO - Bot ishga tushdi
+2025-01-29 20:41:21,145 - aiogram.event - INFO - Update id=260027601 is handled. Duration 1782 ms by bot id=7861655553
+2025-01-29 20:43:08,488 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:43:08,739 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:43:08,818 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000026E3E639490>
+2025-01-29 20:43:18,282 - root - INFO - Bot ishga tushdi
+2025-01-29 20:43:18,284 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:43:21,868 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:43:23,444 - aiogram.event - INFO - Update id=260027602 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-29 20:43:32,103 - aiogram.event - INFO - Update id=260027603 is handled. Duration 890 ms by bot id=7861655553
+2025-01-29 20:43:35,388 - aiogram.event - INFO - Update id=260027604 is handled. Duration 375 ms by bot id=7861655553
+2025-01-29 20:43:56,277 - root - INFO - Bot ishga tushdi
+2025-01-29 20:44:00,210 - aiogram.event - INFO - Update id=260027605 is handled. Duration 4515 ms by bot id=7861655553
+2025-01-29 20:45:04,533 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:45:04,784 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:45:04,882 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001D7C7E87050>
+2025-01-29 20:45:14,493 - root - INFO - Bot ishga tushdi
+2025-01-29 20:45:14,495 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:45:16,801 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:45:19,573 - aiogram.event - INFO - Update id=260027606 is handled. Duration 1937 ms by bot id=7861655553
+2025-01-29 20:45:27,183 - root - INFO - Bot ishga tushdi
+2025-01-29 20:45:28,520 - aiogram.event - INFO - Update id=260027607 is handled. Duration 1937 ms by bot id=7861655553
+2025-01-29 20:48:13,883 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:48:14,134 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:48:14,234 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001E793AD5220>
+2025-01-29 20:48:28,013 - root - INFO - Bot ishga tushdi
+2025-01-29 20:48:28,015 - aiogram.dispatcher - INFO - Start polling
+2025-01-29 20:48:30,301 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-29 20:48:42,167 - aiogram.event - INFO - Update id=260027608 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-29 20:48:44,513 - aiogram.event - INFO - Update id=260027609 is handled. Duration 1015 ms by bot id=7861655553
+2025-01-29 20:48:58,691 - aiogram.event - INFO - Update id=260027610 is handled. Duration 594 ms by bot id=7861655553
+2025-01-29 20:50:03,758 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-29 20:50:04,009 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 16:49:55,675 - root - INFO - Bot ishga tushdi
+2025-01-30 16:49:55,679 - aiogram.dispatcher - INFO - Start polling
+2025-01-30 16:49:56,326 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 16:49:57,301 - aiogram.event - INFO - Update id=260027612 is handled. Duration 750 ms by bot id=7861655553
+2025-01-30 16:49:57,778 - aiogram.event - INFO - Update id=260027611 is handled. Duration 1219 ms by bot id=7861655553
+2025-01-30 16:49:57,853 - aiogram.event - INFO - Update id=260027613 is handled. Duration 1297 ms by bot id=7861655553
+2025-01-30 16:50:12,504 - root - INFO - Bot ishga tushdi
+2025-01-30 16:50:13,057 - aiogram.event - INFO - Update id=260027614 is handled. Duration 1125 ms by bot id=7861655553
+2025-01-30 16:50:17,488 - aiogram.event - INFO - Update id=260027615 is handled. Duration 562 ms by bot id=7861655553
+2025-01-30 16:50:20,909 - aiogram.event - INFO - Update id=260027616 is handled. Duration 187 ms by bot id=7861655553
+2025-01-30 16:50:23,309 - aiogram.event - INFO - Update id=260027617 is handled. Duration 250 ms by bot id=7861655553
+2025-01-30 16:50:46,947 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-30 16:50:47,198 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:34:47,708 - root - INFO - Bot ishga tushdi
+2025-01-30 23:34:47,713 - aiogram.dispatcher - INFO - Start polling
+2025-01-30 23:34:48,290 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:35:02,001 - root - INFO - Bot ishga tushdi
+2025-01-30 23:35:02,732 - aiogram.event - INFO - Update id=260027618 is handled. Duration 1562 ms by bot id=7861655553
+2025-01-30 23:35:05,931 - aiogram.event - INFO - Update id=260027619 is handled. Duration 297 ms by bot id=7861655553
+2025-01-30 23:35:08,540 - aiogram.event - INFO - Update id=260027620 is handled. Duration 234 ms by bot id=7861655553
+2025-01-30 23:35:23,288 - aiogram.event - INFO - Update id=260027621 is handled. Duration 282 ms by bot id=7861655553
+2025-01-30 23:35:35,155 - aiogram.event - INFO - Update id=260027622 is handled. Duration 250 ms by bot id=7861655553
+2025-01-30 23:36:10,362 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-30 23:36:10,614 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:36:21,498 - root - INFO - Bot ishga tushdi
+2025-01-30 23:36:21,500 - aiogram.dispatcher - INFO - Start polling
+2025-01-30 23:36:22,045 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:36:22,893 - aiogram.event - INFO - Update id=260027623 is handled. Duration 641 ms by bot id=7861655553
+2025-01-30 23:36:27,234 - root - INFO - Bot ishga tushdi
+2025-01-30 23:36:27,788 - aiogram.event - INFO - Update id=260027624 is handled. Duration 1562 ms by bot id=7861655553
+2025-01-30 23:36:30,410 - aiogram.event - INFO - Update id=260027625 is handled. Duration 265 ms by bot id=7861655553
+2025-01-30 23:36:32,528 - aiogram.event - INFO - Update id=260027626 is handled. Duration 202 ms by bot id=7861655553
+2025-01-30 23:36:36,134 - aiogram.event - INFO - Update id=260027627 is handled. Duration 217 ms by bot id=7861655553
+2025-01-30 23:36:44,760 - aiogram.event - INFO - Update id=260027628 is handled. Duration 500 ms by bot id=7861655553
+2025-01-30 23:36:47,722 - aiogram.event - INFO - Update id=260027629 is handled. Duration 219 ms by bot id=7861655553
+2025-01-30 23:36:49,282 - aiogram.event - INFO - Update id=260027630 is handled. Duration 297 ms by bot id=7861655553
+2025-01-30 23:44:33,419 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-30 23:44:33,670 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:44:33,776 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000020588604E00>
+2025-01-30 23:44:46,342 - root - INFO - Bot ishga tushdi
+2025-01-30 23:44:46,344 - aiogram.dispatcher - INFO - Start polling
+2025-01-30 23:44:46,958 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:44:49,295 - root - INFO - Bot ishga tushdi
+2025-01-30 23:44:49,799 - aiogram.event - INFO - Update id=260027631 is handled. Duration 1217 ms by bot id=7861655553
+2025-01-30 23:44:51,789 - aiogram.event - INFO - Update id=260027632 is handled. Duration 187 ms by bot id=7861655553
+2025-01-30 23:44:53,247 - aiogram.event - INFO - Update id=260027633 is handled. Duration 327 ms by bot id=7861655553
+2025-01-30 23:44:55,008 - aiogram.event - INFO - Update id=260027634 is handled. Duration 250 ms by bot id=7861655553
+2025-01-30 23:44:57,437 - aiogram.event - INFO - Update id=260027635 is handled. Duration 733 ms by bot id=7861655553
+2025-01-30 23:49:13,742 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-30 23:49:13,993 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-30 23:49:14,106 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000230A3CF7E30>
+2025-01-31 00:45:15,264 - root - INFO - Bot ishga tushdi
+2025-01-31 00:45:15,268 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:45:16,133 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:45:28,706 - root - INFO - Bot ishga tushdi
+2025-01-31 00:45:29,303 - aiogram.event - INFO - Update id=260027636 is handled. Duration 952 ms by bot id=7861655553
+2025-01-31 00:45:30,958 - aiogram.event - INFO - Update id=260027637 is handled. Duration 187 ms by bot id=7861655553
+2025-01-31 00:45:32,380 - aiogram.event - INFO - Update id=260027638 is handled. Duration 217 ms by bot id=7861655553
+2025-01-31 00:45:34,195 - aiogram.event - INFO - Update id=260027639 is handled. Duration 219 ms by bot id=7861655553
+2025-01-31 00:45:48,453 - aiogram.event - INFO - Update id=260027640 is handled. Duration 313 ms by bot id=7861655553
+2025-01-31 00:45:56,924 - aiogram.event - INFO - Update id=260027641 is handled. Duration 202 ms by bot id=7861655553
+2025-01-31 00:46:01,224 - aiogram.event - INFO - Update id=260027642 is handled. Duration 515 ms by bot id=7861655553
+2025-01-31 00:47:41,439 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:47:41,691 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:47:41,779 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000022EB00AD2B0>
+2025-01-31 00:47:51,104 - root - INFO - Bot ishga tushdi
+2025-01-31 00:47:51,105 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:47:51,688 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:47:54,314 - aiogram.event - INFO - Update id=260027643 is handled. Duration 750 ms by bot id=7861655553
+2025-01-31 00:48:20,218 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:48:20,468 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:48:29,552 - root - INFO - Bot ishga tushdi
+2025-01-31 00:48:29,553 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:48:30,183 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:48:33,664 - aiogram.event - INFO - Update id=260027644 is handled. Duration 640 ms by bot id=7861655553
+2025-01-31 00:49:03,966 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:49:04,218 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:49:12,048 - root - INFO - Bot ishga tushdi
+2025-01-31 00:49:12,049 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:49:12,635 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:49:16,209 - aiogram.event - INFO - Update id=260027645 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-31 00:49:27,065 - aiogram.event - INFO - Update id=260027646 is handled. Duration 516 ms by bot id=7861655553
+2025-01-31 00:49:28,628 - aiogram.event - INFO - Update id=260027647 is handled. Duration 265 ms by bot id=7861655553
+2025-01-31 00:49:30,466 - aiogram.event - INFO - Update id=260027648 is handled. Duration 312 ms by bot id=7861655553
+2025-01-31 00:49:33,703 - aiogram.event - INFO - Update id=260027649 is handled. Duration 250 ms by bot id=7861655553
+2025-01-31 00:53:10,630 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:53:10,881 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:53:18,738 - root - INFO - Bot ishga tushdi
+2025-01-31 00:53:18,740 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:53:19,274 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:53:21,397 - aiogram.event - INFO - Update id=260027650 is handled. Duration 577 ms by bot id=7861655553
+2025-01-31 00:53:28,980 - aiogram.event - INFO - Update id=260027651 is handled. Duration 265 ms by bot id=7861655553
+2025-01-31 00:54:39,154 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:54:39,405 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:54:47,792 - root - INFO - Bot ishga tushdi
+2025-01-31 00:54:47,794 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:54:49,188 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:54:50,019 - aiogram.event - INFO - Update id=260027652 is handled. Duration 641 ms by bot id=7861655553
+2025-01-31 00:55:47,767 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:55:48,018 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:55:56,649 - root - INFO - Bot ishga tushdi
+2025-01-31 00:55:56,650 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:55:57,581 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:55:58,999 - aiogram.event - INFO - Update id=260027653 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-31 00:55:58,999 - aiogram.event - ERROR - Cause exception while process update id=260027653 by bot id=7861655553
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\callback.py", line 110, in searched_anime2
+    await call.message.edit_text(f"Anime: {anime_name[0]}\nQismlar:", reply_markup=series_kb(id,current_page=current_page))
+                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\keyboards\inline.py", line 57, in series_kb
+    start_index = (current_page - 1) * 16
+                   ~~~~~~~~~~~~~^~~
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+2025-01-31 00:56:15,544 - aiogram.event - INFO - Update id=260027654 is handled. Duration 1015 ms by bot id=7861655553
+2025-01-31 00:56:17,618 - aiogram.event - INFO - Update id=260027655 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-31 00:56:17,618 - aiogram.event - ERROR - Cause exception while process update id=260027655 by bot id=7861655553
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\callback.py", line 110, in searched_anime2
+    await call.message.edit_text(f"Anime: {anime_name[0]}\nQismlar:", reply_markup=series_kb(id,current_page=current_page))
+                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\keyboards\inline.py", line 57, in series_kb
+    start_index = (current_page - 1) * 16
+                   ~~~~~~~~~~~~~^~~
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+2025-01-31 00:57:29,090 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:57:29,341 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:57:37,266 - root - INFO - Bot ishga tushdi
+2025-01-31 00:57:37,267 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:57:41,206 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:57:41,401 - aiogram.event - INFO - Update id=260027656 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-31 00:57:41,402 - aiogram.event - ERROR - Cause exception while process update id=260027656 by bot id=7861655553
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\callback.py", line 110, in searched_anime2
+    await call.message.edit_text(f"Anime: {anime_name[0]}\nQismlar:", reply_markup=series_kb(id,current_page=current_page))
+                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\keyboards\inline.py", line 63, in series_kb
+    series.row(InlineKeyboardButton(text="Orqaga", callback_data=f"animepage_{current_page-1}_{id}"),
+                                                                              ~~~~~~~~~~~~^~
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+2025-01-31 00:57:51,465 - aiogram.event - INFO - Update id=260027657 is handled. Duration 579 ms by bot id=7861655553
+2025-01-31 00:57:54,903 - aiogram.event - INFO - Update id=260027658 is handled. Duration 516 ms by bot id=7861655553
+2025-01-31 00:57:56,872 - aiogram.event - INFO - Update id=260027659 is handled. Duration 202 ms by bot id=7861655553
+2025-01-31 00:57:58,726 - aiogram.event - INFO - Update id=260027660 is not handled. Duration 15 ms by bot id=7861655553
+2025-01-31 00:57:58,726 - aiogram.event - ERROR - Cause exception while process update id=260027660 by bot id=7861655553
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\callback.py", line 110, in searched_anime2
+    await call.message.edit_text(f"Anime: {anime_name[0]}\nQismlar:", reply_markup=series_kb(id,current_page=current_page))
+                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\keyboards\inline.py", line 63, in series_kb
+    series.row(InlineKeyboardButton(text="Orqaga", callback_data=f"animepage_{current_page-1}_{id}"),
+                                                                              ~~~~~~~~~~~~^~
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+2025-01-31 00:58:53,421 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 00:58:53,672 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:59:04,068 - root - INFO - Bot ishga tushdi
+2025-01-31 00:59:04,069 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 00:59:04,545 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 00:59:05,302 - aiogram.event - INFO - Update id=260027661 is handled. Duration 562 ms by bot id=7861655553
+2025-01-31 00:59:10,253 - aiogram.event - INFO - Update id=260027662 is handled. Duration 217 ms by bot id=7861655553
+2025-01-31 00:59:13,999 - aiogram.event - INFO - Update id=260027663 is handled. Duration 359 ms by bot id=7861655553
+2025-01-31 00:59:16,086 - aiogram.event - INFO - Update id=260027664 is handled. Duration 422 ms by bot id=7861655553
+2025-01-31 00:59:19,758 - aiogram.event - INFO - Update id=260027665 is handled. Duration 202 ms by bot id=7861655553
+2025-01-31 00:59:21,055 - aiogram.event - INFO - Update id=260027666 is handled. Duration 297 ms by bot id=7861655553
+2025-01-31 00:59:21,821 - aiogram.event - INFO - Update id=260027667 is handled. Duration 234 ms by bot id=7861655553
+2025-01-31 00:59:23,922 - aiogram.event - INFO - Update id=260027668 is handled. Duration 202 ms by bot id=7861655553
+2025-01-31 01:04:44,114 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 01:04:44,366 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:04:54,064 - root - INFO - Bot ishga tushdi
+2025-01-31 01:04:54,066 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 01:04:54,657 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:04:55,425 - aiogram.event - INFO - Update id=260027669 is handled. Duration 592 ms by bot id=7861655553
+2025-01-31 01:04:57,328 - aiogram.event - INFO - Update id=260027670 is handled. Duration 313 ms by bot id=7861655553
+2025-01-31 01:05:41,936 - aiogram.event - INFO - Update id=260027671 is handled. Duration 952 ms by bot id=7861655553
+2025-01-31 01:05:43,929 - aiogram.event - INFO - Update id=260027672 is handled. Duration 375 ms by bot id=7861655553
+2025-01-31 01:06:06,062 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 01:06:06,313 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:06:12,787 - root - INFO - Bot ishga tushdi
+2025-01-31 01:06:12,787 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 01:06:15,138 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:06:16,301 - aiogram.event - INFO - Update id=260027673 is handled. Duration 1000 ms by bot id=7861655553
+2025-01-31 01:06:18,694 - aiogram.event - INFO - Update id=260027674 is not handled. Duration 16 ms by bot id=7861655553
+2025-01-31 01:06:18,694 - aiogram.event - ERROR - Cause exception while process update id=260027674 by bot id=7861655553
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=1, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.7/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\user\Documents\GitHub\Duo-telegram-bot\handlers\callback.py", line 110, in searched_anime2
+    await call.message.edit_text(f"Anime: {anime_name[0]}\nQismlar:", reply_markup=series_kb(id,current_page=current_page))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\types\message.py", line 3564, in edit_text
+    return EditMessageText(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\pydantic\main.py", line 176, in __init__
+    self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=1, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.7/v/model_type
+2025-01-31 01:08:39,799 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 01:08:40,050 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:08:50,714 - root - INFO - Bot ishga tushdi
+2025-01-31 01:08:50,715 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 01:08:52,310 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:08:54,143 - aiogram.event - INFO - Update id=260027675 is handled. Duration 1297 ms by bot id=7861655553
+2025-01-31 01:08:58,228 - aiogram.event - INFO - Update id=260027676 is handled. Duration 562 ms by bot id=7861655553
+2025-01-31 01:08:59,807 - aiogram.event - INFO - Update id=260027677 is handled. Duration 405 ms by bot id=7861655553
+2025-01-31 01:09:02,019 - aiogram.event - INFO - Update id=260027678 is handled. Duration 281 ms by bot id=7861655553
+2025-01-31 01:09:04,075 - aiogram.event - INFO - Update id=260027679 is handled. Duration 281 ms by bot id=7861655553
+2025-01-31 01:09:05,139 - aiogram.event - INFO - Update id=260027680 is handled. Duration 170 ms by bot id=7861655553
+2025-01-31 01:09:07,881 - aiogram.event - INFO - Update id=260027681 is not handled. Duration 0 ms by bot id=7861655553
+2025-01-31 01:09:11,393 - root - INFO - Bot ishga tushdi
+2025-01-31 01:09:11,987 - aiogram.event - INFO - Update id=260027682 is handled. Duration 1062 ms by bot id=7861655553
+2025-01-31 01:09:14,376 - aiogram.event - INFO - Update id=260027683 is handled. Duration 186 ms by bot id=7861655553
+2025-01-31 01:09:19,892 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 01:09:20,144 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:09:20,231 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001FB51012690>
+2025-01-31 01:09:20,232 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001FB50F3E7B0>, 893348.171)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001FB50F28410>
+2025-01-31 01:17:46,538 - root - INFO - Bot ishga tushdi
+2025-01-31 01:17:46,539 - aiogram.dispatcher - INFO - Start polling
+2025-01-31 01:17:47,225 - aiogram.dispatcher - INFO - Run polling for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:17:52,804 - aiogram.event - INFO - Update id=260027684 is handled. Duration 702 ms by bot id=7861655553
+2025-01-31 01:17:55,666 - aiogram.event - INFO - Update id=260027685 is handled. Duration 359 ms by bot id=7861655553
+2025-01-31 01:17:58,220 - aiogram.event - INFO - Update id=260027686 is handled. Duration 547 ms by bot id=7861655553
+2025-01-31 01:18:02,761 - root - INFO - Bot ishga tushdi
+2025-01-31 01:18:04,813 - aiogram.event - INFO - Update id=260027687 is handled. Duration 2563 ms by bot id=7861655553
+2025-01-31 01:18:07,821 - aiogram.event - INFO - Update id=260027688 is handled. Duration 359 ms by bot id=7861655553
+2025-01-31 01:18:12,298 - aiogram.event - INFO - Update id=260027690 is not handled. Duration 15 ms by bot id=7861655553
+2025-01-31 01:18:14,887 - aiogram.event - INFO - Update id=260027691 is handled. Duration 436 ms by bot id=7861655553
+2025-01-31 01:18:20,138 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-31 01:18:20,392 - aiogram.event - INFO - Update id=260027689 is not handled. Duration 10766 ms by bot id=7861655553
+2025-01-31 01:18:20,392 - aiogram.dispatcher - INFO - Polling stopped for bot @anime_duo_bot id=7861655553 - 'Anime uzb'
+2025-01-31 01:18:20,503 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001B223EF8050>
+2025-01-31 01:18:20,503 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001B2241E1EB0>, 893888.5)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001B2241C8530>
