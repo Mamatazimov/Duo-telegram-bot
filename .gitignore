@@ -4,3 +4,6 @@
 # Configuration files
 config/
 *.config
+
+# Logs
+*.log
